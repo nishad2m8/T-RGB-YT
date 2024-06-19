@@ -1,0 +1,23 @@
+SET(SOURCES screens/ui_Screen1.c
+    screens/ui_Screen2.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    ui_events.c
+    images/ui_img_images_gauge_png.c
+    images/ui_img_images_lettering_png.c
+    images/ui_img_images_needle_png.c
+    images/ui_img_images_right_png.c
+    images/ui_img_images_right_pressed_png.c
+    images/ui_img_images_car_png.c
+    images/ui_img_images_left_png.c
+    images/ui_img_images_left_pressed_png.c
+    images/ui_img_1059536706.c
+    images/ui_img_1059535681.c
+    images/ui_img_1059543104.c
+    images/ui_img_1059532358.c
+    images/ui_img_1059533383.c
+    images/ui_img_1059531333.c
+    fonts/ui_font_Int80.c)
+
+add_library(ui ${SOURCES})

@@ -1,0 +1,17 @@
+SET(SOURCES screens/ui_Screen1.c
+    screens/ui_Screen2.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    ui_events.c
+    images/ui_img_images_dial_png.c
+    images/ui_img_images_numbers_png.c
+    images/ui_img_images_right_png.c
+    images/ui_img_1423821357.c
+    images/ui_img_images_needle_8x197_png.c
+    images/ui_img_images_left_png.c
+    images/ui_img_1557908308.c
+    images/ui_img_1465642558.c
+    fonts/ui_font_Int80.c)
+
+add_library(ui ${SOURCES})

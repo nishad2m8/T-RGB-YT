@@ -1,0 +1,16 @@
+{
+  "codename": "Int80",
+  "ttf_path": "/assets/font/Inter-Regular.ttf",
+  "bin_path": "/assets/font/ui_font_Int80.bin",
+  "c_path": "/assets/font/ui_font_Int80.c",
+  "cfg_path": "/assets/font/ui_font_Int80.fcfg",
+  "size": 80,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
