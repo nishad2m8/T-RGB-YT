@@ -1,4 +1,4 @@
-# T-Display-S3-Pro Open Board Platform (OBP)
+# Lilygo Open Board Platform (OBP)
 
 ![alt text](../00-Assets/OBP.png)
 
