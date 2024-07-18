@@ -1,0 +1,16 @@
+{
+  "codename": "OW35",
+  "ttf_path": "/assets/Font/Oswald-Light.ttf",
+  "bin_path": "/assets/Font/ui_font_OW35.bin",
+  "c_path": "/assets/Font/ui_font_OW35.c",
+  "cfg_path": "/assets/Font/ui_font_OW35.fcfg",
+  "size": 35,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

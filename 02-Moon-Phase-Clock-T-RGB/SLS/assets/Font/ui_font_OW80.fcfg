@@ -1,0 +1,16 @@
+{
+  "codename": "OW80",
+  "ttf_path": "/assets/Font/Oswald-Light.ttf",
+  "bin_path": "/assets/Font/ui_font_OW80.bin",
+  "c_path": "/assets/Font/ui_font_OW80.c",
+  "cfg_path": "/assets/Font/ui_font_OW80.fcfg",
+  "size": 80,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
