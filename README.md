@@ -1,4 +1,4 @@
-# T-RGB
+# Lilygo T-RGB
 ---
 Do you like my videos? Please consider buying me a ☕ :
 https://www.buymeacoffee.com/nishad2m8
